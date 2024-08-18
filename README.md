@@ -1,5 +1,5 @@
-#Banking Application
-##Overview
+Banking Application
+Overview
 This project is a Spring Boot-based web application that allows users to view a list of bank branches and the services offered by individual banks. It includes two main functionalities:
 
 Displaying a list of branches for a specific bank in Bangalore.
